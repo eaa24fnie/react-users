@@ -94,6 +94,9 @@ Du lærer at sende data til en komponent med props, og hvordan du kan modtage og
 **2. Skriv en kommentar om forskellen på de tre metoder.**
 Hvilken metode synes du er mest overskuelig? Hvorfor?
 
+Jeg syntes helt klart at det er den første (Enkeltvis props med destructuring) som er nemmest at kigge på.
+Det gør jeg fordi at ved brug af denne metode, så står den data der hører sammen, sammen.
+
 ---
 
 ### Step 1.1: Vis alle props fra user-objektet
